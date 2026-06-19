@@ -25,8 +25,4 @@ The technical evaluation concluded that while remote mHealth applications hold s
 
 ---
 
-## 🛠️ Repository Structure
-```bash
-├── README.md                           # Project documentation and summary
-├── IJERPH Companion App_10.05.24.docx   # Full pre-print text / working paper manuscript
-└── [Optional_Folder_Data]/             # If you choose to add simulated/anonymized metadata script pipelines
+
